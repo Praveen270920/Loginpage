@@ -1,0 +1,23 @@
+body{
+  background-image: url(./assets/img4.jpg);
+  background-size: cover;
+  margin-top: 250px;
+  
+}
+.img{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 25%;
+  margin-left: 600px;
+}
+.tex{
+background-color: transparent;
+width: 90%;
+margin: 3%;
+color: white;
+}
+.tex :hover{
+  background-color:black;
+  }
+  .button{
+    transform : translate(50,0)
+  }
