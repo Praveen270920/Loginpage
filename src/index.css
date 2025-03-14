@@ -18,6 +18,3 @@ color: white;
 .tex :hover{
   background-color:black;
   }
-  .button{
-    transform : translate(50,0)
-  }
